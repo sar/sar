@@ -1,10 +1,8 @@
-### Hi there 👋
+### Sar Malik
 
 <!--
 **sar/sar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sar, a startup founder in the Generative AI space 🤗 focused on building SaaS tech to drive innovation. At the core of my skillset is a deep understanding of cloud architecture. I have extensive capability in leveraging Cloud Native solutions on AWS and Azure, and can design turn-key implementations to deliver scalable, secure, and highly available systems. If you're a Silicon Valley VC, angel investor, or simply someone who's excited about the future of artificial intelligence ecosystem, I'd love to connect and explore how we can work together to build something truly special.
 
 ### 🔭 Tech Stack
 
@@ -67,14 +67,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![]()
 
 ### Github Stats
 
 ![Stats for Sar Malik - github.com/sar](https://github-readme-stats.vercel.app/api?username=sar&show_icons=true&theme=highcontrast)
-![Top Languages for Sar Malik - github.com/sar](https://github-readme-stats.vercel.app/api/top-langs/?username=sar&theme=highcontrast)
 ![Streak Count for Sar Malik - github.com/sar](https://github-readme-streak-stats.herokuapp.com/?user=sar&theme=highcontrast)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sar&theme=2077) -->
+
+<!-- 
+![Top Languages for Sar Malik - github.com/sar](https://github-readme-stats.vercel.app/api/top-langs/?username=sar&theme=highcontrast)
+![](https://github-profile-trophy.vercel.app/?username=sar&theme=highcontrast)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sar&theme=2077) 
+-->
 
 ### Find Me On...
 
